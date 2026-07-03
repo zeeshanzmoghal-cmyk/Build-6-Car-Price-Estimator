@@ -27,4 +27,5 @@ If invalid or incomplete data is entered, the calculator will not return a resul
 
 # # How to use
 Step 1: Download the provided .xlsx file
+
 Step 2: Start calculating the price of your next Toyota!
